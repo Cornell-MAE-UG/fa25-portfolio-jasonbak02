@@ -8,7 +8,7 @@ image: /assets/images/waterbottleimg.png
 
 ## Interactive 3D Model
 
-[Play with the STL File!](https://github.com/jasonbak02/fa25-jasonbakportfolio/blob/main/assets/waterbottlestl.stl)
+[Play with the STL File!](https://github.com/Cornell-MAE-UG/fa25-portfolio-jasonbak02/blob/main/assets/waterbottlestl.stl)
 ## Overview
 In MAE 2250 Introduction to Mechanical Design, I was assigned to pick an everyday object that I frequently use and make a detailed render of it in Solidworks. As someone who had little to no CAD experience (at the time), this task seemed pretty daunting. I ended up modeling my everyday water bottle in SolidWorks to practice realistic part modeling and threading features. I actually learned a ton about the process of designing something from scratch and was able to use it in my summer internship where I used Solidworks to design fluid systems. 
 
