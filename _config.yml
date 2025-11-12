@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Jason Bak
 description              : Jason Bak - Projects and CV 
-base_url: "/fa25-jasonbakportfolio"
+base_url: "/fa25-portfolio-jasonbak02"
 
 # Theme and Style
 theme: jekyll-theme-minimal
