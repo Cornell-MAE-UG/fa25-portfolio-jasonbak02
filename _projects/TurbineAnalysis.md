@@ -33,7 +33,7 @@ Turbine Efficiency in terms of Temperature:
 $$\eta_t = \frac{T_1 - T_2}{T_1 - T_{2s}}$$
 
 ## Turbine Cp Diagram
-![Turbine Diagram](../assets/images/TurbineDiagram.jpg)
+![Turbine Diagram](../assets/images/TurbineDiagram.jpg)\n
 This example of a gas turbine shows air entering a compressor and mixed with fuel in a combustor. The mixture is then heated up which then converts the chemical energy into thermal energy, which produces thrust. This flow is directed through a generator which in turn converts the thrust into electricity. 
 
 ## Variations
