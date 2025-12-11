@@ -1,3 +1,13 @@
+---
+layout: project
+title: Robot Dog Leg (MAE3260)
+description: I decided to program Spot's Leg
+technologies: [CAD, MATLAB]
+image: /assets/images/spot.jpg
+---
+
+## MAE 3270 Final Project
+
 The Boston Dynamics robot dog, Spot, is an excellent example of how system dynamics is shaping the future of engineering. As an autonomous being, correction and response torques are absolutely essential in every action to ensure that Spot can maintain its balance when put in a tough situation. This video shows how Spot instantaneously responds to different disturbances, including forces acting on and against it. 
 
 https://youtu.be/aFuA50H9uek?si=QoWX1XclWWRxhHMK
