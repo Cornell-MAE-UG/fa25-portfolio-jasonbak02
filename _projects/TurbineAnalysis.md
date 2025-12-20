@@ -10,7 +10,7 @@ image: /assets/images/Turbine.jpg
 The function of a turbine is to convert the kinetic energy of a fluid flow into mechanical or electrical energy that we can use. As fluid moves past the blades of the turbine, it exerts a force which causes a rotation along the central shaft. The rotation of this shaft generates usable energy. Turbines can be found in different contexts, including but not limited to wind turbines and dams to generate electricity, aircraft engines to compress air and fuel through the exhaust nozzle, and as a propulsion mechanism in ships.   
 
 ## Southern California Wind Farm
-![Turbine Diagram]({{ "/assets/images/SoCalTurbine.jpg" | relative_url }})
+![Turbine Diagram]({{ "assets/images/SoCalTurbine.jpg" | relative_url }})
 This wind farm in Southern California powers over 195,000 homes annually. 
 
 ## Equations
@@ -33,7 +33,7 @@ Turbine Efficiency in terms of Temperature:
 $$\eta_t = \frac{T_1 - T_2}{T_1 - T_{2s}}$$
 
 ## Turbine Cp Diagram
-![CP Diagram]({{ "/assets/images/TurbineDiagram.jpg" | relative_url }})
+![CP Diagram](".../assets/images/TurbineDiagram.jpg")
 
 
 This example of a gas turbine shows air entering a compressor and mixed with fuel in a combustor. The mixture is then heated up which then converts the chemical energy into thermal energy, which produces thrust. This flow is directed through a generator which in turn converts the thrust into electricity. 
