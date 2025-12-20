@@ -3,7 +3,7 @@ layout: project
 title: Turbine Analysis
 description: A detailed analysis of a turbine in a fluid dynamics framework
 technologies: [Machining]
-image: /assets/images/turbine.jpg
+image: /assets/images/Turbine.jpg
 ---
 
 ## Overview
