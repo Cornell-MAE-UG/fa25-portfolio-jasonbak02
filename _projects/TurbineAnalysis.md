@@ -12,7 +12,7 @@ The function of a turbine is to convert the kinetic energy of a fluid flow into 
 ## Southern California Wind Farm
 <img src="{{ '/assets/images/SoCalTurbine.jpg' | relative_url }}"
      alt="Southern California Wind Farm"
-     style="width:80%; max-width:800px; display:block; margin:auto;">
+     style="width:80%; max-width:800px; display:block;">
 This wind farm in Southern California powers over 195,000 homes annually. 
 
 ## Equations
