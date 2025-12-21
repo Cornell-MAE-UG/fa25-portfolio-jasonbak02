@@ -12,10 +12,5 @@ My group's fluid dynamics dissection involved dissassembling and analyzing the f
 
 <div class="video-container">
 <p>To watch the video on YouTube:</p>
-  <iframe
-    src="https://www.youtube.com/embed/1bhQ_YkF6kU?si=N5kW-WtAaKNr8nFn"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1bhQ_YkF6kU?si=IR_ZNoUHjqsdj3GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
